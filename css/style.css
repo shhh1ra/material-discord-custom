@@ -1,7 +1,7 @@
-@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
-@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
+@import url("https://shironainull.github.io/material-discord-custom/css/fonts/fonts.css");
+@import url("https://shironainull.github.io/material-discord-custom/css/icons/icons.css");
 :root {
-  --app-font: "Google Sans";
+  --app-font: "Ubuntu";
   --app-bg: var(--main-alt);
   --accent-hue: 224;
   --accent-saturation: 71%;
