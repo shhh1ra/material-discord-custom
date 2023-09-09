@@ -1,0 +1,17 @@
+/*
+ *
+ *	FONTS
+ *
+ */
+
+/* FONTS -> Ubuntu */
+
+/* FONTS -> Ubuntu -> 400 */
+
+@font-face {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/fonts/GoogleSans-Regular-cyrillic.woff2) format('woff2');
+}
